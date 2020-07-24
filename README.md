@@ -1,5 +1,9 @@
 ### Hi there, my name is Elias Puma 👋
 
+##### My GitHub contributions as a Game of Life
+
+[![GitHub Game of Life](https://github4life.herokuapp.com/puma3.gif?z=6)](https://github4life.herokuapp.com/puma3)
+
 <!--
 **puma3/puma3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
