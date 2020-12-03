@@ -1,5 +1,5 @@
 ### Hello there, my name is Elias Puma 👋
-I'm a Passionate and Proactive Web Developer experienced in Ruby on Rails, React JS and GraphQL. Rust, WASM/WASI and Web Components enthusiast, looking for projects where they can be applied. Feel free to contact me:
+I'm a Passionate and Proactive Web Developer experienced in Ruby on Rails 💎, React JS ⚛ and GraphQL. Rust 🦀, WASM/WASI and Web Components enthusiast, looking for projects where they can be applied. Feel free to contact me:
 
 <p align="center">
 	<a href="https://github.com/puma3"><img src="https://img.shields.io/github/followers/puma3.svg?label=GitHub&style=social" alt="GitHub"></a>
