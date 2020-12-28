@@ -4,7 +4,7 @@ I'm a Passionate and Proactive Web Developer experienced in Ruby on Rails 💎, 
 <p align="center">
 	<a href="https://github.com/puma3"><img src="https://img.shields.io/github/followers/puma3.svg?label=GitHub&style=social" alt="GitHub"></a>
 	<a href="https://twitter.com/epuma3"><img src="https://img.shields.io/twitter/follow/epuma3?label=Twitter&style=social" alt="Twitter"></a>
-	<a href="https://www.linkedin.com/in/elias.puma"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+	<a href="https://www.linkedin.com/in/elias-puma"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 </p>
 
 ##### My GitHub contributions as a Game of Life
